@@ -142,7 +142,8 @@ BGA Bilgi Güvenliği’nin hizmetlerini şu şekilde sıralayabiliriz:</p>
 <li>Büyük Veri Güvenlik Analizi</li>
 <li>Yeni Nesil Güvenlik Çözümleri</li>
 </ul>
-![](https://hizliresim.com/3QeAwu)
+
+ <img src="https://i.hizliresim.com/3QeAwu.png" alt="foo" />
 
 
 <p style="text-align:justify">Türkiye’deki en iyi yazılım şirketlerini, faaliyet gösterdikleri alanlara göre ve sundukları hizmetleri ele alarak inceledik. Umarım yazımız, beğeninizi kazanmıştır. Sağlıklı günler dileriz.</p>
