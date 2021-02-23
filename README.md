@@ -131,6 +131,8 @@ Heraklet Bilgi Teknolojileri’nin hizmetlerini şu şekilde sıralayabiliriz:</
 <li>Kaynak Kod Analizi</li>
 </ul><br>
 
+<img width=300px src="https://i.hizliresim.com/jMJBQD.png" alt="heraklet-bilisim-teknolojileri" />
+
 <h3 style="font-size:18px">BGA BİLGİ GÜVENLİĞİ</h3>
 
 <p style="text-align:justify"><a href="https://www.bgasecurity.com">BGA Bilgi Güvenliği</a>, bu sektörde profesyonel destek vermek amacıyla 2008 yılında faaliyetlerime başlamıştır. Sadece ülkemizde değil, Amerika ve Azerbaycan’da da faaliyetlerini sürdürmektedir. Şuana kadar 1000’i aşkın eğitim ve danışmanlık projesine imza atmışlardır. Üniversite öğrencilerine de oldukça destek sağlamaktadırlar. Öğrencilerin bilgi ve birikimlerini artırabilmek amacıyla siber güvenlik kampları düzenlemektedirler.
@@ -145,7 +147,6 @@ BGA Bilgi Güvenliği’nin hizmetlerini şu şekilde sıralayabiliriz:</p>
 <li>Büyük Veri Güvenlik Analizi</li>
 <li>Yeni Nesil Güvenlik Çözümleri</li>
 </ul>
-
 
  <img height:50px width=300px src="https://i.hizliresim.com/3QeAwu.png" alt="bga-bilgi-guvenligi" />
 
