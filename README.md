@@ -38,7 +38,6 @@ Heraklet Bilişim Teknolojileri’nin bazı hizmetlerini şu şekilde sıralayab
 
 KoçSistem’in hizmetlerini şu şekilde sıralayabiliriz:
 
-
 <ul>
 
 <li>Nesnelerin İnterneti (IoT)</li>
@@ -50,6 +49,8 @@ KoçSistem’in hizmetlerini şu şekilde sıralayabiliriz:
 <li>Dijital İşgücü RPA</li>
 </ul><br>
 
+ <img width="300" src="https://i.hizliresim.com/1of2Wf.png" alt="kos-sistem-logo" />
+ 
 <h3 style="font-size:18px">VOLANT YAZILIM</h3>
 
 <p style="text-align:justify"><a href="https://www.volantyazilim.com.tr">Volant Yazılım</a>, bünyesinde bulunan kaliteli mühendis ekibi sayesinde beraber çalıştığı işletmelere kaliteli ve üretken çözümler hazırlamaktadır. Volant Yazılım, uluslararası niteliklere önem vermekte ve dünyada her geçen gün gelişen ve ilerleyen teknolojilerin gerisinde kalmayarak uyum sağlamaktadır. Bu uyumu sağlarken, sadece kendi firması için değil çalıştığı ortaklarını da bu yenilikçi dünyaya adapte etmektedir. 2002’den beri yazılım alanında üretimler gerçekleştiren Volant, yazılım sektörünün önde gelen şirketlerinden birisidir.
@@ -85,7 +86,6 @@ Casper markalarını şu şekilde sıralayabiliriz.
     <li>Nırvana</li>
     <li>Excalibur</li>
 </ul><br>
-
 
  <img width="400" src="https://i.hizliresim.com/hC9Yea.png" alt="casper" />
 
