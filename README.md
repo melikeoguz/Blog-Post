@@ -50,7 +50,7 @@ KoçSistem’in hizmetlerini şu şekilde sıralayabiliriz:
 
 <h3 style="font-size:18px">VOLANT YAZILIM</h3>
 
-<p style="text-align:justify">Volant Yazılım, bünyesinde bulunan kaliteli mühendis ekibi sayesinde beraber çalıştığı işletmelere kaliteli ve üretken çözümler hazırlamaktadır. Volant Yazılım, uluslararası niteliklere önem vermekte ve dünyada her geçen gün gelişen ve ilerleyen teknolojilerin gerisinde kalmayarak uyum sağlamaktadır. Bu uyumu sağlarken, sadece kendi firması için değil çalıştığı ortaklarını da bu yenilikçi dünyaya adapte etmektedirler. 2002’den beri yazılım alanında üretimler gerçekleştiren Volant, yazılım sektörünün önde gelen şirketlerinden birisidir.
+<p style="text-align:justify"><a href="https://www.volantyazilim.com.tr">Volant Yazılım</a>, bünyesinde bulunan kaliteli mühendis ekibi sayesinde beraber çalıştığı işletmelere kaliteli ve üretken çözümler hazırlamaktadır. Volant Yazılım, uluslararası niteliklere önem vermekte ve dünyada her geçen gün gelişen ve ilerleyen teknolojilerin gerisinde kalmayarak uyum sağlamaktadır. Bu uyumu sağlarken, sadece kendi firması için değil çalıştığı ortaklarını da bu yenilikçi dünyaya adapte etmektedirler. 2002’den beri yazılım alanında üretimler gerçekleştiren Volant, yazılım sektörünün önde gelen şirketlerinden birisidir.
 Volant Yazılım’ın hizmetlerini şu şekilde sıralayabiliriz:</p>
 
 <ul>
