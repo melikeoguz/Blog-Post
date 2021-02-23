@@ -29,6 +29,8 @@ Heraklet Bilişim Teknolojileri’nin bazı hizmetlerini şu şekilde sıralayab
 <li>Bulut Hizmetleri</li>
 
 </ul><br>
+ <img height:50px width=300px src="https://i.hizliresim.com/4iumyp.png" alt="bga-bilgi-guvenligi" />
+
 
 <h3 style="font-size:18px">KOÇSİSTEM</h3>
 
