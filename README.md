@@ -84,6 +84,9 @@ Casper markalarını şu şekilde sıralayabiliriz.
     <li>Excalibur</li>
 </ul><br>
 
+
+ <img src="https://i.hizliresim.com/hC9Yea.png" alt="casper" />
+
 <h3 style="font-size:18px">PENTA TEKNOLOJİ</h3>
 
 <p style="text-align:justify">Türkiye’nin teknoloji dağıtıcı şirketleri arasında lider olan <a href="https://www.penta.com.tr/ana-sayfa/">Penta Teknoloji</a>, 40dan fazla işletmenin küresel markanın Türkiye dağıtıcılığını yapmaktadır. 2011’den beri Yıldız Holding bünyesinde hizmet veren Penta Teknoloji, IT altyapısı ve güçlü IT altyapısına ve dağıtım zincirine sahiptir. Hedeflerini gün geçtiktçe büyüten Penta, hizmet verdiği alanlarda pazar payını artırmak istemektelerdir. Penta, şu anda Türkiye’nin en büyük 3. IT şirketidir.
@@ -143,7 +146,8 @@ BGA Bilgi Güvenliği’nin hizmetlerini şu şekilde sıralayabiliriz:</p>
 <li>Yeni Nesil Güvenlik Çözümleri</li>
 </ul>
 
- <img src="https://i.hizliresim.com/3QeAwu.png" alt="foo" />
+
+ <img src="https://i.hizliresim.com/3QeAwu.png" alt="bga-bilgi-guvenligi" />
 
 
 <p style="text-align:justify">Türkiye’deki en iyi yazılım şirketlerini, faaliyet gösterdikleri alanlara göre ve sundukları hizmetleri ele alarak inceledik. Umarım yazımız, beğeninizi kazanmıştır. Sağlıklı günler dileriz.</p>
