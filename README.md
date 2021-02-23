@@ -63,7 +63,7 @@ Volant Yazılım’ın hizmetlerini şu şekilde sıralayabiliriz:</p>
 
 <h3 style="font-size:18px">SENSORMATIC</h3>
 
-<p style="text-align:justify">Elektronik güvenlik ve iş zekası entegrasyonu alanlarında hizmet veren Sensormatic, 16 farklı ilde hizmet vermektedir. Bu alanlarda lider işletme olan Sensormatic, müşterileri için maksimum hizmeti vermeye çalışmaktadır. 1994 yılından beri bu alanlarda hizmet verdiğinden tecrübesi ve bilgi birikimiyle, birlikte çalıştıkları işletmelere buldukları çözümlerde güven vermektedir.
+<p style="text-align:justify">Elektronik güvenlik ve iş zekası entegrasyonu alanlarında hizmet veren Sensormatic, 16 farklı ilde hizmet vermektedir. Bu alanlarda lider işletme olan <a href="https://www.sensormatic.com.tr">Sensormatic</a>, müşterileri için maksimum hizmeti vermeye çalışmaktadır. 1994 yılından beri bu alanlarda hizmet verdiğinden tecrübesi ve bilgi birikimiyle, birlikte çalıştıkları işletmelere buldukları çözümlerde güven vermektedir.
 Sensormatic’in hizmetlerini şu şekilde sıralayabiliriz:</p>
 
 <ul>
@@ -86,7 +86,7 @@ Casper markalarını şu şekilde sıralayabiliriz.
 
 <h3 style="font-size:18px">PENTA TEKNOLOJİ</h3>
 
-<p style="text-align:justify">Türkiye’nin teknoloji dağıtıcı şirketleri arasında lider olan Penta Teknoloji, 40dan fazla işletmenin küresel markanın Türkiye dağıtıcılığını yapmaktadır. 2011’den beri Yıldız Holding bünyesinde hizmet veren Penta Teknoloji, IT altyapısı ve güçlü IT altyapısına ve dağıtım zincirine sahiptir. Hedeflerini gün geçtiktçe büyüten Penta, hizmet verdiği alanlarda pazar payını artırmak istemektelerdir. Penta, şu anda Türkiye’nin en büyük 3. IT şirketidir.
+<p style="text-align:justify">Türkiye’nin teknoloji dağıtıcı şirketleri arasında lider olan <a href="https://www.penta.com.tr/ana-sayfa/">Penta Teknoloji</a>, 40dan fazla işletmenin küresel markanın Türkiye dağıtıcılığını yapmaktadır. 2011’den beri Yıldız Holding bünyesinde hizmet veren Penta Teknoloji, IT altyapısı ve güçlü IT altyapısına ve dağıtım zincirine sahiptir. Hedeflerini gün geçtiktçe büyüten Penta, hizmet verdiği alanlarda pazar payını artırmak istemektelerdir. Penta, şu anda Türkiye’nin en büyük 3. IT şirketidir.
 Penta Teknoloji’nin bazı hizmetlerini şu şekilde sıralayabiliriz:</p>
 
 <ul>
@@ -104,7 +104,7 @@ Penta Teknoloji’nin bazı hizmetlerini şu şekilde sıralayabiliriz:</p>
 
 <h3 style="font-size:18px">LOSTAR BİLGİ GÜVENLİĞİ</h3>
 
-<p style="text-align:justify">Türkiye’nin ilk bilgi güvenliği şirketi olan Lostar Bilgi Güvenliği, siber güvenlik alanında hizmet vermektedir. 1998’den itibaren varlığını sürdüren Lostar, internet kullanımının gün geçtikçe arttığından kendini sürekli geliştirip yenilemekte ve kullancılarına en kaliteli hizmeti vermeyi amaçlamaktadır. Sadece yurt içinde değil, yurt dışında da Londra ofisinde hizmet vermektedir. Ayrıca, üniversiteler ile beraber AR-GE çalışmaları da yürütmektedir. ESAM ve ABOME adlı ürünleri hizmet verdikleri piyasalarda beğeni toplamıştır. 
+<p style="text-align:justify">Türkiye’nin ilk bilgi güvenliği şirketi olan <a href="https://lostar.com.tr">Lostar Bilgi Güvenliği</a>, siber güvenlik alanında hizmet vermektedir. 1998’den itibaren varlığını sürdüren Lostar, internet kullanımının gün geçtikçe arttığından kendini sürekli geliştirip yenilemekte ve kullancılarına en kaliteli hizmeti vermeyi amaçlamaktadır. Sadece yurt içinde değil, yurt dışında da Londra ofisinde hizmet vermektedir. Ayrıca, üniversiteler ile beraber AR-GE çalışmaları da yürütmektedir. ESAM ve ABOME adlı ürünleri hizmet verdikleri piyasalarda beğeni toplamıştır. 
 Lostar Bilgi Güvenliği’nin hizmetlerini şu şekilde sıralayabiliriz:</p>
 
 <ul>
@@ -130,7 +130,7 @@ Heraklet Bilgi Teknolojileri’nin hizmetlerini şu şekilde sıralayabiliriz:</
 
 <h3 style="font-size:18px">BGA BİLGİ GÜVENLİĞİ</h3>
 
-<p style="text-align:justify">BGA Bilgi Güvenliği, bu sektörde profesyonel destek vermek amacıyla 2008 yılında faaliyetlerime başlamıştır. Sadece ülkemizde değil, Amerika ve Azerbaycan’da da faaliyetlerini sürdürmektedir. Şuana kadar 1000’i aşkın eğitim ve danışmanlık projesine imza atmışlardır. Üniversite öğrencilerine de oldukça destek sağlamaktadırlar. Öğrencilerin bilgi ve birikimlerini artırabilmek amacıyla siber güvenlik kampları düzenlemektedirler.
+<p style="text-align:justify"><a href="https://www.bgasecurity.com">BGA Bilgi Güvenliği</a>, bu sektörde profesyonel destek vermek amacıyla 2008 yılında faaliyetlerime başlamıştır. Sadece ülkemizde değil, Amerika ve Azerbaycan’da da faaliyetlerini sürdürmektedir. Şuana kadar 1000’i aşkın eğitim ve danışmanlık projesine imza atmışlardır. Üniversite öğrencilerine de oldukça destek sağlamaktadırlar. Öğrencilerin bilgi ve birikimlerini artırabilmek amacıyla siber güvenlik kampları düzenlemektedirler.
 BGA Bilgi Güvenliği’nin hizmetlerini şu şekilde sıralayabiliriz:</p>
 
 <ul>
