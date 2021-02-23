@@ -50,7 +50,7 @@ KoçSistem’in hizmetlerini şu şekilde sıralayabiliriz:
 
 <h3 style="font-size:18px">VOLANT YAZILIM</h3>
 
-<p style="text-align:justify"><a href="https://www.volantyazilim.com.tr">Volant Yazılım</a>, bünyesinde bulunan kaliteli mühendis ekibi sayesinde beraber çalıştığı işletmelere kaliteli ve üretken çözümler hazırlamaktadır. Volant Yazılım, uluslararası niteliklere önem vermekte ve dünyada her geçen gün gelişen ve ilerleyen teknolojilerin gerisinde kalmayarak uyum sağlamaktadır. Bu uyumu sağlarken, sadece kendi firması için değil çalıştığı ortaklarını da bu yenilikçi dünyaya adapte etmektedirler. 2002’den beri yazılım alanında üretimler gerçekleştiren Volant, yazılım sektörünün önde gelen şirketlerinden birisidir.
+<p style="text-align:justify"><a href="https://www.volantyazilim.com.tr">Volant Yazılım</a>, bünyesinde bulunan kaliteli mühendis ekibi sayesinde beraber çalıştığı işletmelere kaliteli ve üretken çözümler hazırlamaktadır. Volant Yazılım, uluslararası niteliklere önem vermekte ve dünyada her geçen gün gelişen ve ilerleyen teknolojilerin gerisinde kalmayarak uyum sağlamaktadır. Bu uyumu sağlarken, sadece kendi firması için değil çalıştığı ortaklarını da bu yenilikçi dünyaya adapte etmektedir. 2002’den beri yazılım alanında üretimler gerçekleştiren Volant, yazılım sektörünün önde gelen şirketlerinden birisidir.
 Volant Yazılım’ın hizmetlerini şu şekilde sıralayabiliriz:</p>
 
 <ul>
@@ -63,7 +63,7 @@ Volant Yazılım’ın hizmetlerini şu şekilde sıralayabiliriz:</p>
 
 <h3 style="font-size:18px">SENSORMATIC</h3>
 
-<p style="text-align:justify">Elektronik güvenlik ve iş zekası entegrasyonu alanlarında hizmet veren Sensormatic, 16 farklı ilde hizmet vermektedir. Bu alanlarda lider işletme olan <a href="https://www.sensormatic.com.tr">Sensormatic</a>, müşterileri için maksimum hizmeti vermeye çalışmaktadır. 1994 yılından beri bu alanlarda hizmet verdiğinden tecrübesi ve bilgi birikimiyle, birlikte çalıştıkları işletmelere buldukları çözümlerde güven vermektedir.
+<p style="text-align:justify">Elektronik güvenlik ve iş zekası entegrasyonu alanlarında hizmet veren Sensormatic, 16 farklı ilde hizmet vermektedir. Bu alanlarda lider işletme olan <a href="https://www.sensormatic.com.tr">Sensormatic</a>, müşterileri için maksimum hizmeti vermeye çalışmaktadır. 1994 yılından beri bu alanlarda hizmet verdiğinden ötürü tecrübesi ve bilgi birikimiyle, birlikte çalıştıkları işletmelere buldukları çözümlerde güven vermektedir.
 Sensormatic’in hizmetlerini şu şekilde sıralayabiliriz:</p>
 
 <ul>
@@ -74,7 +74,7 @@ Sensormatic’in hizmetlerini şu şekilde sıralayabiliriz:</p>
 
 <h3 style="font-size:18px">CASPER</h3>
 
-<p style="text-align:justify">Türkiye’nin en büyük bilgisayar üreticilerinden olan Casper, tesislerinde yılda 1 milyon ürün üretebilmektedir. Tüketiciye özel üretimde ise Türkiye’de tektir. Sadece üretim kısmında değil, üretip satışını yaptıktan sonra da müşterileriyle iletişim halinde kalmaktadırlar. 1991 yılından beridir hizmet vermekte olan Casper, sadece ülkemizde değil, dünyada da hizmet vermekte ve ülkemizi temsil etmektedir. Casper, ürünlerinin tasarım ve AR-GE bölümlerini bünyesindeki mühendis ekibiyle yürütmektedir.</p>
+<p style="text-align:justify">Türkiye’nin en büyük bilgisayar üreticilerinden olan <a href="text-align:justify">Casper</a>, tesislerinde yılda 1 milyon ürün üretebilmektedir. Tüketiciye özel üretimde ise Türkiye’de tektir. Sadece üretim kısmında değil, üretip satışını yaptıktan sonra da müşterileriyle iletişim halinde kalmaktadırlar. 1991 yılından beridir hizmet vermekte olan Casper, sadece ülkemizde değil, dünyada da hizmet vermekte ve ülkemizi temsil etmektedir. Casper, ürünlerinin tasarım ve AR-GE bölümlerini bünyesindeki mühendis ekibiyle yürütmektedir.</p>
 
 Casper markalarını şu şekilde sıralayabiliriz.
 
