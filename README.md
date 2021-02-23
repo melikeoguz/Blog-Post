@@ -85,7 +85,7 @@ Casper markalarını şu şekilde sıralayabiliriz.
 </ul><br>
 
 
- <img src="https://i.hizliresim.com/hC9Yea.png" alt="casper" />
+ <img height="400" src="https://i.hizliresim.com/hC9Yea.png" alt="casper" />
 
 <h3 style="font-size:18px">PENTA TEKNOLOJİ</h3>
 
