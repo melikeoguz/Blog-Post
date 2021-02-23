@@ -147,7 +147,7 @@ BGA Bilgi Güvenliği’nin hizmetlerini şu şekilde sıralayabiliriz:</p>
 </ul>
 
 
- <img width="600px" src="https://i.hizliresim.com/3QeAwu.png" alt="bga-bilgi-guvenligi" />
+ <img width="300px" src="https://i.hizliresim.com/3QeAwu.png" alt="bga-bilgi-guvenligi" />
 
 
 <p style="text-align:justify">Türkiye’deki en iyi yazılım şirketlerini, faaliyet gösterdikleri alanlara göre ve sundukları hizmetleri ele alarak inceledik. Umarım yazımız, beğeninizi kazanmıştır. Sağlıklı günler dileriz.</p>
